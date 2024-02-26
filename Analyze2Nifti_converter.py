@@ -27,7 +27,7 @@ def getListOfFiles(dirName):
 
 
 def main():
-    dirName = '/Users/bthomas/Downloads/Pathto/RootDirectory/'
+    dirName = '/Users/Pathto/RootDirectory/'
 
     # Get the list of all files in directory tree at given path
     listOfFiles = getListOfFiles(dirName)
